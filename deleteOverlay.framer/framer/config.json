@@ -1,7 +1,7 @@
 {
   "orientation" : 0,
   "updateDelay" : 0.3,
-  "designModeSelected" : 0,
+  "designModeSelected" : 1,
   "cachedDeviceHeight" : 667,
   "contentScale" : 1,
   "fullScreen" : false,
@@ -16,10 +16,10 @@
   "selectedHand" : "iphone-hands-1",
   "showBezel" : true,
   "foldedCodeRanges" : [
-    "{0, 112}",
-    "{113, 43}",
-    "{157, 59}",
-    "{217, 1110}"
+    "{0, 153}",
+    "{154, 43}",
+    "{198, 59}",
+    "{258, 975}"
   ],
   "deviceScale" : "fit"
 }

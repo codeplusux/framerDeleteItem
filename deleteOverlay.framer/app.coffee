@@ -2,7 +2,8 @@
 
 Framer.Info =
 	title: "Draw delete and Overlay confirm"
-	author: "Pablo Vivanco"
+	author: "@uxpablo"
+	link: "https://www.linkedin.com/in/uxpablo/"
 	version: "1"
 
 
@@ -42,18 +43,7 @@ user2.draggable = true
 user2.draggable.vertical = false
 user2.draggable.constraints =
 	size: user2	
-	
-user2.states.a =
-	x: 0
 
-user2.onDrag ->
-	if user2.x >= 0	
-		user2.stateCycle("a")
-
-	if user2.x > 200	
-		user2.draggable = false
-		
-				
 user2.onDragEnd ->
 		
 	if user2.x < -90
@@ -63,6 +53,7 @@ user2.onDragEnd ->
 			options:
 				time: 0.2
 				curve: Bezier.ease
+		
 	
 hideOverlay.onClick ->
 	flow.showPrevious()
@@ -86,6 +77,6 @@ deleteItem.onTap ->
 			curve: Bezier.easeOut
 	moveList.animate
 		y: 160
-			
 
 
+		
