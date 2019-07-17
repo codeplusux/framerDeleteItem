@@ -1,7 +1,7 @@
 {
   "orientation" : 0,
-  "updateDelay" : 0.3,
-  "designModeSelected" : 1,
+  "updateDelay" : 0.29999999999999999,
+  "designModeSelected" : 0,
   "cachedDeviceHeight" : 667,
   "contentScale" : 1,
   "fullScreen" : false,
@@ -13,7 +13,7 @@
   },
   "projectId" : "8A1D0F3E-76DA-4EC9-8728-434CBD2ACBA3",
   "deviceOrientation" : 0,
-  "selectedHand" : "iphone-hands-1",
+  "selectedHand" : "",
   "showBezel" : true,
   "foldedCodeRanges" : [
     "{0, 153}",
