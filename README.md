@@ -2,5 +2,4 @@
 
 ## Delete item with confirmation dialog
 
-<p align="center"><img src="https://raw.githubusercontent.com/pabloux/framer/master/avatar.png" /> </p>
-<p align="center"><img src="https://raw.githubusercontent.com/pabloux/framer/master/deleteItem.gif" /> </p>
+<video src="deleteItem.mov" width="500" height="300" controls preload></video>
