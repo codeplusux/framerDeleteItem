@@ -6,14 +6,14 @@
   "contentScale" : 1,
   "fullScreen" : false,
   "cachedDeviceWidth" : 375,
-  "deviceType" : "apple-iphone-8-silver",
+  "deviceType" : "apple-iphone-8-space-gray",
   "sharedPrototype" : true,
   "propertyPanelToggleStates" : {
 
   },
   "projectId" : "8A1D0F3E-76DA-4EC9-8728-434CBD2ACBA3",
   "deviceOrientation" : 0,
-  "selectedHand" : "",
+  "selectedHand" : "iphone-hands-1",
   "showBezel" : true,
   "foldedCodeRanges" : [
     "{0, 153}",
